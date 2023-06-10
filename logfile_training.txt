@@ -1,0 +1,32 @@
+2025-04-24 14:09:48 - INFO - Data loaded successfully.
+2025-04-24 14:09:48 - INFO - NaN values in password column handled.
+2025-04-24 14:16:33 - INFO - Data loaded successfully.
+2025-04-24 14:16:33 - INFO - NaN values in password column handled.
+2025-04-24 14:16:51 - INFO - Data processing pipeline created and applied to data.
+2025-04-24 14:16:51 - INFO - X_transformed is a sparse matrix.
+2025-04-24 14:16:52 - INFO - Data processing pipeline saved.
+2025-04-24 14:41:17 - INFO - Data loaded successfully.
+2025-04-24 14:41:17 - INFO - NaN values in password column handled.
+2025-04-24 14:41:35 - INFO - Data processing pipeline created and applied to data.
+2025-04-24 14:41:35 - INFO - X_transformed is a sparse matrix.
+2025-04-24 14:41:36 - INFO - Data processing pipeline saved.
+2025-04-24 14:45:56 - INFO - Data loaded successfully.
+2025-04-24 14:45:56 - INFO - NaN values in password column handled.
+2025-04-24 14:46:14 - INFO - Data processing pipeline created and applied to data.
+2025-04-24 14:46:14 - INFO - X_transformed is a sparse matrix.
+2025-04-24 14:46:15 - INFO - Data processing pipeline saved.
+2025-04-24 14:53:53 - INFO - Data loaded successfully.
+2025-04-24 14:53:53 - INFO - NaN values in password column handled.
+2025-04-24 14:54:11 - INFO - Data processing pipeline created and applied to data.
+2025-04-24 14:54:11 - INFO - X_transformed is a sparse matrix.
+2025-04-24 14:54:13 - INFO - Data processing pipeline saved.
+2025-04-24 15:01:57 - INFO - Data loaded successfully.
+2025-04-24 15:01:57 - INFO - NaN values in password column handled.
+2025-04-24 15:02:15 - INFO - Data processing pipeline created and applied to data.
+2025-04-24 15:02:15 - INFO - X_transformed is a sparse matrix.
+2025-04-24 15:02:16 - INFO - Data processing pipeline saved.
+2025-04-24 15:06:11 - INFO - Data loaded successfully.
+2025-04-24 15:06:11 - INFO - NaN values in password column handled.
+2025-04-24 15:06:29 - INFO - Data processing pipeline created and applied to data.
+2025-04-24 15:06:29 - INFO - X_transformed is a sparse matrix.
+2025-04-24 15:06:31 - INFO - Data processing pipeline saved.
