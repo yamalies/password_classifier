@@ -33,7 +33,6 @@ jobs:
                               --cache-to=type=local,dest=/tmp/.buildx-cache-new \
                               --push -t yamalies/fastapi-app:latest -f Dockerfile.fastapi .
 
-
       - name: Clean up Docker cache
         run: |
           rm -rf /tmp/.buildx-cache
