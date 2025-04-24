@@ -25,13 +25,13 @@ jobs:
         run: |
           docker buildx build --cache-from=type=local,src=/tmp/.buildx-cache \
                               --cache-to=type=local,dest=/tmp/.buildx-cache-new \
-                              --push -t yamalies/streamlit-app:latest -f Dockerfile.streamlit .
+                              --push -t yamal50000/streamlit-app:latest -f Dockerfile.streamlit .
 
       - name: Build and push FastAPI image
         run: |
           docker buildx build --cache-from=type=local,src=/tmp/.buildx-cache \
                               --cache-to=type=local,dest=/tmp/.buildx-cache-new \
-                              --push -t yamalies/fastapi-app:latest -f Dockerfile.fastapi .
+                              --push -t yamal50000/fastapi-app:latest -f Dockerfile.fastapi .
 
       - name: Clean up Docker cache
         run: |
